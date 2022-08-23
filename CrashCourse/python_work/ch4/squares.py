@@ -1,5 +1,5 @@
 squares = [value**2 for value in range(1, 11)]
-
+# print(squares)
 numbers = range(1,21)
 # for number in numbers:
 	# print(number)
